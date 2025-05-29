@@ -1,6 +1,5 @@
 # 🧠 Telco Customer Churn Prediction
 
-![Churn Project Banner](Telco4.jpg)
 
 ## 📘 Table of Contents
 1. [Project Overview](#project-overview)
