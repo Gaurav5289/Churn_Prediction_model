@@ -10,9 +10,7 @@
 5. [Technology Stack](#technology-stack)
 6. [Folder Structure](#folder-structure)
 7. [How to Run](#how-to-run)
-8. [Model Performance](#model-performance)
-9. [Future Scope](#future-scope)
-10. [Author & Contact](#author--contact)
+
 
 ---
 
